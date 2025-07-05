@@ -1,8 +1,20 @@
 ## About Me
 
-<!-- TO DO: add more details about me later -->
+- George Washington
+* John Adams
++ Thomas Jefferson
++ vd
+
+1. Why?
+2. What?
+3. When?
 
 **Hi, I'm Mona. You might recognize me as GitHub's mascot.**
+
+1. First list item
+   - First nested list item
+     - Second nested list item
+
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
