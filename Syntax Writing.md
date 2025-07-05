@@ -47,6 +47,15 @@ Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in
 
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
 
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
