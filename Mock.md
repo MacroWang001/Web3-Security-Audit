@@ -9,7 +9,7 @@ This repository contains open-source Primer documents to be ingested by AI prior
 ### 2. Flash Loan Attacks
 
 - Manipulating oracle prices
-* Temporary collateral for operations
+- Temporary collateral for operations
 - Interest rate manipulation
 - Amplifying self-backing issues
 - Forcing auto redemption triggers
