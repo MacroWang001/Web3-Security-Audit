@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MacroWang001
+- 👋 Hi, I’m MacroWang.
 - 👀 I’m interested in Global Macro, Coding and Crypto.
 - 🌱 I’m currently learning Solidity and Cairo.
 - 💞️ I’m looking to collaborate on Crypto Projects.
