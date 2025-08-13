@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MacroWang.
-- 👀 I’m interested in Global Macro, Coding and Crypto.
-- 🌱 I’m currently learning Solidity and Cairo.
+- 👀 I’m interested in Coding, Crypto and Web3.
+- 🌱 I’m currently learning Solidity and Rust.
 - 💞️ I’m looking to collaborate on Crypto Projects.
 - 📫  My Email Address: macro.wang@tensorcorp.com
 
