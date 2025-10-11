@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Macro Wang.
 - 👀 I’m passionate about coding, crypto, and Web3 security.
 - 🌱 Currently learning Solidity, Rust, and Move (for Sui & Aptos).
-- 💻 My goal is to become a senior security researcher and Web3 developer.
+- 💻 My goal is to become a full-stack web3 security researcher and multichain developer.
 - 📫 Reach me at macro.wang@tensorcorp.com
   
 <!---
