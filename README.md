@@ -11,6 +11,8 @@
 ## Web3 Security Research 🛡️
  
  * [Sherlock Portfolio](https://audits.sherlock.xyz/watson/MacroWang)
+ * [Cyfrin CodeHawks](https://profiles.cyfrin.io/u/macrowang001/achievements)
+   
 
 
 ## Public Audit Contests 🏆
