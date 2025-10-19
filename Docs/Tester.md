@@ -1,4 +1,5 @@
 [![Github Actions][gha-badge]][gha] [![Foundry][foundry-badge]][foundry] [![Docs][docs-badge]][docs]
+
 [gha]: https://github.com/centrifuge/protocol/actions
 [gha-badge]: https://github.com/centrifuge/protocol/actions/workflows/ci.yml/badge.svg
 [foundry]: https://getfoundry.sh
