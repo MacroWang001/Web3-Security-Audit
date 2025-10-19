@@ -1,6 +1,6 @@
 ## About Me 🕵️‍♂️
 - 👋 Hi, I’m Macro Wang. I’m deeply passionate about coding, crypto, and Web3 security.
-- 🌱 At 33, I made a bold career shift from investment analysis to Web3 security research, starting from zero background in CS.
+- 🌱 At 33, I made a bold career shift from traditional finance to Web3 security research, starting from zero background in CS.
 - 💻 Currently studying Solidity, Rust, and Move (Sui & Aptos) to achieve my long-term career goal of becoming a senior Web3 SR.
 - 📫 For **security research collaboration** or **private audit inquiries**, please reach out to me at:
   
