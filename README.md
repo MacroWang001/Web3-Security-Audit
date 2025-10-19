@@ -12,8 +12,8 @@
  
  * [Sherlock Portfolio](https://audits.sherlock.xyz/watson/MacroWang)
  * [Cyfrin CodeHawks](https://profiles.cyfrin.io/u/macrowang001/achievements)
- * [WTF Academy Solidity Course Certificate](https://www.wtf.academy/zh/personal)
-   
+ * [WTF Academy Contibutor](https://www.wtf.academy/en)
+
 
 
 ## Public Audit Contests 🏆
