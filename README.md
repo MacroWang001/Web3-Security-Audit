@@ -8,7 +8,7 @@
     - **Twitter:** - [@MacroWang007](https://x.com/MacroWang007) 
     - **Telegram:**  - [@macrowang](https://t.me/macrowang) 
 
-## Web3 Security Research Footprint 🛡️
+## Web3 Security Footprints 🛡️
  
  * [Sherlock Portfolio](https://audits.sherlock.xyz/watson/MacroWang)
  * [Cyfrin CodeHawks](https://profiles.cyfrin.io/u/macrowang001/achievements)
