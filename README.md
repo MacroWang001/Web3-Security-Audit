@@ -4,11 +4,9 @@
 - 💻 Currently studying Solidity, Rust, and Move (Sui & Aptos) to achieve my long-term career goal of becoming a senior Web3 SR.
 - 📫 For **security research collaboration** or **private audit inquiries**, please reach out to me at:
   
-     **- Email:** - macro.wang@tensorcorp.com
-  
-     **- Twitter** - [@MacroWang007](https://x.com/MacroWang007)
-  
-     **- Telegram** - [@macrowang](https://t.me/macrowang)
+    - **Email:**  - macro.wang@tensorcorp.com
+    - **Twitter:** - [@MacroWang007](https://x.com/MacroWang007) 
+    - **Telegram:**  - [@macrowang](https://t.me/macrowang) 
 
 ## Web3 Security Research 🛡️
  
