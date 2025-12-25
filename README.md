@@ -8,11 +8,12 @@
     - **Twitter:** - [@MacroWang007](https://x.com/MacroWang007) 
     - **Telegram:**  - [@macrowang](https://t.me/macrowang) 
 
-## Web3 Security Footprints 🛡️
+## Web3 Security Activity Footprints 🛡️
  
  * [Sherlock Portfolio](https://audits.sherlock.xyz/watson/MacroWang)
  * [Cyfrin Web3 Course Certificate](https://profiles.cyfrin.io/u/macrowang001/achievements)
  * [WTF Academy Contributor](https://www.wtf.academy/en)
+ * [Certora CTF](https://ctf.certora.com/)
 
 
 
