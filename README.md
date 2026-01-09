@@ -20,11 +20,12 @@
 ## Public Audit Contests 🏆
 | **Date**   | **Contest**                                         | **Platform** | **Category** | **Language** | **Chains**| **Findings** | **Result**   | **Rank**  |
 |------------|-----------------------------------------------------|--------------|--------------|--------------|-----------|--------------|--------------|-----------|
-| 2025 July   | [**Malda**](https://audits.sherlock.xyz/contests/1029)| Sherlock  | L1, Lending Protocol | Solidity |  EVM | 1 M    |  $0.2  |    -    |
-| 2025 July   | [**Malda**](https://audits.sherlock.xyz/contests/1029)| Sherlock  | L1, Lending Protocol | Solidity |  EVM | 1 M    |  $0.2  |    -    |
-| 2025 December | [**RustFund**](https://codehawks.cyfrin.io/c/ai-rust-fund-cmdn405fz0001l804znjpwski/ai-results)| Cyfrin Codehawks  | CrowdFunding Platform | Rust | Solana| 3 H, 1 L    |  300 XP  |    -    |
-| 2025 September | [**One Shot**](https://codehawks.cyfrin.io/c/2025-09-one-shot-reloaded/results?page=1)| Cyfrin Codehawks | NFT Staking | Move |  Aptos | 2 H, 1 L    |  400 XP |    7/26    |
-| 2025 July   | [**Malda**](https://audits.sherlock.xyz/contests/1029)| Sherlock  | L1, Lending Protocol | Solidity | EVM |   1 M  |  $0.2  |    -    |
+| 2026 Jan   | [**Flying Tulip**](https://audits.sherlock.xyz/contests/1223)| Sherlock  | Yield Farming Protocol | Solidity |  EVM | 0 M    |  $0  |    -    |
+| 2026 Jan   | [**Rujira**](https://code4rena.com/audits/2025-12-rujira)| Code4rena  | DeFi Lending Protocol | Rust |  Cosmos |  0 Findings   |  $0  |    -    |
+| 2025 Dec | [**RustFund**](https://codehawks.cyfrin.io/c/ai-rust-fund-cmdn405fz0001l804znjpwski/ai-results)| Cyfrin Codehawks |CrowdFunding Platform | Rust | Solana| 3 H, 1 L| 300 XP |- |
+| 2025 Oct | [**Centrifuge V3.1**](https://audits.sherlock.xyz/contests/1028?filter=questions)| Sherlock | RWA Protocol | Solidity |EVM | 0 Findings | $ 0  | -  |
+| 2025 Sep | [**One Shot**](https://codehawks.cyfrin.io/c/2025-09-one-shot-reloaded/results?page=1)| Cyfrin Codehawks | NFT Staking | Move |  Aptos | 2 H, 1 L    |  400 XP |    7/26    |
+| 2025 Jul | [**Malda**](https://audits.sherlock.xyz/contests/1029)| Sherlock  | L1, Lending Protocol | Solidity | EVM |   1 M  |  $0.2  |    -    |
 
 
 
