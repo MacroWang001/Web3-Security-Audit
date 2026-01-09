@@ -18,9 +18,15 @@
 
 
 ## Public Audit Contests 🏆
-| **Date**   | **Contest**                                         | **Platform** | **Category** | **Language** | **Findings** | **Result**   | **Rank**  |
-|------------|-----------------------------------------------------|--------------|--------------|--------------|--------------|--------------|-----------|
-| 2025 July   | [**Malda**](https://audits.sherlock.xyz/contests/1029)| Sherlock  | L1, Lending Protocol | Solidity |   1 M    |  $0.2  |    -    |
+| **Date**   | **Contest**                                         | **Platform** | **Category** | **Language** | **Chains**| **Findings** | **Result**   | **Rank**  |
+|------------|-----------------------------------------------------|--------------|--------------|--------------|-----------|--------------|--------------|-----------|
+| 2025 July   | [**Malda**](https://audits.sherlock.xyz/contests/1029)| Sherlock  | L1, Lending Protocol | Solidity |  EVM | 1 M    |  $0.2  |    -    |
+| 2025 July   | [**Malda**](https://audits.sherlock.xyz/contests/1029)| Sherlock  | L1, Lending Protocol | Solidity |  EVM | 1 M    |  $0.2  |    -    |
+| 2025 December | [**RustFund**](https://codehawks.cyfrin.io/c/ai-rust-fund-cmdn405fz0001l804znjpwski/ai-results)| Cyfrin Codehawks  | CrowdFunding Platform | Rust | Solana| 3 H, 1 L    |  300 XP  |    -    |
+| 2025 September | [**One Shot**](https://codehawks.cyfrin.io/c/2025-09-one-shot-reloaded/results?page=1)| Cyfrin Codehawks | NFT Staking | Move |  Aptos | 2 H, 1 L    |  400 XP |    7/26    |
+| 2025 July   | [**Malda**](https://audits.sherlock.xyz/contests/1029)| Sherlock  | L1, Lending Protocol | Solidity | EVM |   1 M  |  $0.2  |    -    |
+
+
 
 
 <!---
