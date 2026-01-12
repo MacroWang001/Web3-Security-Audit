@@ -13,7 +13,7 @@
  * [Sherlock Portfolio](https://audits.sherlock.xyz/watson/MacroWang)
  * [Cyfrin Security Course Certificate](https://profiles.cyfrin.io/u/macrowang001/achievements)
  * [WTF Academy Contributor](https://www.wtf.academy/en)
- * [Certora CTF](https://ctf.certora.com/)
+ * [Certora CTF](https://x.com/MacroWang007/status/2004848205620720019)
  * [Rektoff Solana Rust Security Bootcamp (Cohort3)](https://www.rektoff.xyz/bootcamp)
 
 
