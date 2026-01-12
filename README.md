@@ -10,10 +10,10 @@
 
 ## Web3 Security Activity Footprints 🛡️
  
- * [Sherlock Portfolio](https://audits.sherlock.xyz/watson/MacroWang)
+ * [Sherlock Audit Portfolio](https://audits.sherlock.xyz/watson/MacroWang)
  * [Cyfrin Security Course Certificate](https://profiles.cyfrin.io/u/macrowang001/achievements)
  * [WTF Academy Contributor](https://www.wtf.academy/en)
- * [Certora CTF](https://x.com/MacroWang007/status/2004848205620720019)
+ * [Certora CTF 2025](https://x.com/MacroWang007/status/2004848205620720019)
  * [Rektoff Solana Rust Security Bootcamp (Cohort3)](https://www.rektoff.xyz/bootcamp)
 
 
