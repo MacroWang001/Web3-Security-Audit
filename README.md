@@ -5,7 +5,7 @@
 - 📫 For **security research collaboration** or **private audit inquiries**, please reach out to me at:
   
     - **Email:**  - xmu2011czwhn@gmail.com
-    - **Twitter:** - [@MacroWang007](https://x.com/MacroWang007) 
+    - **Twitter:** - [@MacroWang](https://x.com/MacroWang0f8ba) 
     - **Telegram:**  - [@macrowang](https://t.me/macrowang) 
 
 ## Web3 Security Activity Footprints 🛡️
