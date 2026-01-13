@@ -14,7 +14,7 @@
  * [Cyfrin Security Course Certificate](https://profiles.cyfrin.io/u/macrowang001/achievements)
  * [WTF Academy Contributor](https://www.wtf.academy/en)
  * [Certora CTF 2025](https://x.com/MacroWang007/status/2004848205620720019)
- * [Rektoff Solana Rust Security Bootcamp (Cohort3)](https://www.rektoff.xyz/bootcamp)
+ * [Rektoff Rust x Solana Security Bootcamp (Cohort3)](https://x.com/MacroWang0f8ba/status/2011122386935124440)
 
 
 
