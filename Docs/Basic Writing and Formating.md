@@ -94,7 +94,7 @@ Link to the sample section: [Sample Selection](#sample-section).
 
 Link to the first non-unique section: [This heading is not unique in the file](#this-heading-is-not-unique-in-the-file).
 
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-fil).
 
 Here is a simple flow chart:
 
