@@ -112,7 +112,7 @@ graph TD;
 </picture>
 
 
-A footnote can also have multiple lines[^2].
+A footnote can also have multiple lines[^1].
 
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
