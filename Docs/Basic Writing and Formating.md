@@ -90,9 +90,9 @@ TEXT 2
 
 # Links to the example headings above
 
-Link to the sample section: [Link Text](#sample-section).
+Link to the sample section: [Sample Selection](#sample-section).
 
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
+Link to the first non-unique section: [This heading is not unique in the file](#this-heading-is-not-unique-in-the-file).
 
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
 
@@ -112,7 +112,9 @@ graph TD;
 </picture>
 
 
-A footnote can also have multiple lines[^2].
+* Here is a simple footnote[^1].
+
+* A footnote can also have multiple lines[^2].
 
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
